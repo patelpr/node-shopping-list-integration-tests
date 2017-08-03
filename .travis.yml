@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: AZ62Ra2LoEPYataJZ3jo3H519nTJ82XJKFvd8CDh7FcTtIuVABtCPqLTFKZBgOnuxN66ZYu1sJsljqh4WKfRfNpv/q4sypxxaIlwK/akjBZz+FR024oewryF5ypmvQ0ZakrK1p+ZVJghZkXMOB4/cPr5Wf3NxQhfQltcV00wF+b5wDu7TS6YWY6vB9P0Q+oAJlvQJr97aMMqyabVydDFEj43kvkSqtQJ4dst7ZdsCPJrVJYjp3GYXHOza96nZfRwQ75ETWbucik5OIU3vFxp/yjPJUJd8bg3iYpMXrRdG1xENeth/I3YGWlW4ofTrokV9jzWdqLqi3BenLE3LfjZk54iFHROJt27ZFLBjdpuaOZfTN0NX/ijVSdF4iZWQoZmH/1EAnKGhTbGtvkD/IV1t9VD4lK3XOAeF6DkvXwCScOZoAAYFQ5tG1d3LVOH64K+slXod8ij920BnMs5BeFKml+rECQRS9YkIJMIGBSbgWuDB0agWT1PtI+amt+Q6go66bOYs3l3kfuAcu4dVTFrf+r2HA98MqmOGf+66LadEOIInEkLgtKpmebG72ZULMbaBmMd5QS3Sl4zfG3ZIbPj8Dm4PC+ee/HD4j8tQZ+VF8FVthPDC4jXepCvMvxF6B0aXca21Y7f61k8dHYcGCQoQhgwuva1M1Dwe/Gm5I6Cayk=
-  app: cryptic-sierra-39000
+  app: cryptic-sierra-39000.herokuapp.com
   on:
     repo: patelpr/node-shopping-list-integration-tests
